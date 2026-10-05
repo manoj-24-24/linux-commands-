@@ -54,4 +54,5 @@
 | `last` | Show login history | `last` |
 
 > ⚠️ Use commands such as `rm`, `kill`, `chmod`, `chown`, and `systemctl` carefully, especially when using `sudo`.
+> this will give you a beginner friendly learning 
 
